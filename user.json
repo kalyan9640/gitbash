@@ -1,0 +1,16 @@
+[ {
+  "firstName" : {
+    "firstName" : "pavan"
+  },
+  "lastName" : {
+    "lastName" : "kalyan"
+  },
+  "phoneNumber" : [ {
+    "home" : {
+      "home" : 123
+    },
+    "office" : {
+      "office" : 456
+    }
+  } ]
+} ]

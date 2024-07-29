@@ -1,0 +1,10 @@
+{
+  "n" : [ {
+    "firstName" : "D1",
+    "lastName" : "D2",
+    "phoneNumber" : [ {
+      "home" : 123,
+      "office" : 456
+    } ]
+  } ]
+}
